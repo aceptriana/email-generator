@@ -3,9 +3,9 @@
 ## Disclaimer
 Dengan meinstall tools ini berarti anda setuju dengan syarat-syarat berikut:
 
-1.Semua informasi yang tersedia di situs ini adalah untuk tujuan pendidikan saja bukan untuk berbuat kejahatan.
-2.Kami tidak bertanggung jawab atas penyalahgunaan informasi apapun.
-3.Kami tidak bertanggung jawab atas kerusakan langsung atau tidak langsung yang disebabkan karena penggunaan informasi yang disediakan di situs ini.
+1. Semua informasi yang tersedia di situs ini adalah untuk tujuan pendidikan saja bukan untuk berbuat kejahatan.
+2. Kami tidak bertanggung jawab atas penyalahgunaan informasi apapun.
+3. Kami tidak bertanggung jawab atas kerusakan langsung atau tidak langsung yang disebabkan karena penggunaan informasi yang disediakan di situs ini.
 
 ## Install
 
