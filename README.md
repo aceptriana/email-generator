@@ -24,14 +24,25 @@ pip install colorama
 Windows
 [Download Python ](https://www.python.org/downloads/)
 
-## Run
+
+## Run Linux
 ```
 git clone https://github.com/aceptriana/email-generator
 cd email-generator
 python main.py
 
 ```
-## Preview
 
+## Run Windows
+```
+[Download Script ](https://github.com/aceptriana/email-generator/archive/refs/heads/main.zip)
+Kemudian Eksrtrak ke Local Disk C
+buka cmd 
+cd c:\
+cd email-generator-main
+python main.py
+```
+## Preview
+![alt text](https://raw.githubusercontent.com/aceptriana/email-generator/main/windows.jpg)
 ![alt text](https://raw.githubusercontent.com/aceptriana/email-generator/main/cmd.jpg)
 
