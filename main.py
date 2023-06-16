@@ -6,7 +6,7 @@ banner = '''
 / /___/ / / / / / /_/ / / /  / /_/ /  __/ / / /  __/ /  / /_/ / /_/ /_/ / /    
 \____/_/ /_/ /_/\__,_/_/_/   \____/\___/_/ /_/\___/_/   \__,_/\__/\____/_/     
 '''
-
+# ganti arthur besok nya meninggal
 name = "Acep Triana"
 prodi = "Sistem Informasi"
 tools = "Auto Generate Email Uniku"
