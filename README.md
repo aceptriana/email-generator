@@ -34,8 +34,8 @@ python main.py
 ```
 
 ## Run Windows
-```
 [Download Script ](https://github.com/aceptriana/email-generator/archive/refs/heads/main.zip)
+```
 Kemudian Eksrtrak ke Local Disk C
 buka cmd 
 cd c:\
