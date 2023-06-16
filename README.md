@@ -33,5 +33,5 @@ python main.py
 ```
 ## Preview
 
-![alt text](https://github.com/aceptriana/email-generator/blob/master/cmd.jpg)
+![alt text](https://raw.githubusercontent.com/aceptriana/email-generator/main/cmd.jpg)
 
