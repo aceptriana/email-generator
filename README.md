@@ -1,4 +1,4 @@
-## Bot WhatsApp Stiker Maker
+## Auto Generate Email Uniku
 
 ## Disclaimer
 Dengan meinstall tools ini berarti anda setuju dengan syarat-syarat berikut:
@@ -33,5 +33,5 @@ python main.py
 ```
 ## Preview
 
-![alt text](https://github.com/aceptriana/wa-bot-stiker/blob/master/1.png)
-![alt text](https://github.com/aceptriana/wa-bot-stiker/blob/master/2.jpg)
+![alt text](https://github.com/aceptriana/email-generator/blob/master/cmd.jpg)
+
