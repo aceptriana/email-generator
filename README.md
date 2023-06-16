@@ -43,6 +43,6 @@ cd email-generator-main
 python main.py
 ```
 ## Preview
-![alt text](https://raw.githubusercontent.com/aceptriana/email-generator/main/windows.jpg)
+![alt text](https://raw.githubusercontent.com/aceptriana/email-generator/main/windows.png)
 ![alt text](https://raw.githubusercontent.com/aceptriana/email-generator/main/cmd.jpg)
 
